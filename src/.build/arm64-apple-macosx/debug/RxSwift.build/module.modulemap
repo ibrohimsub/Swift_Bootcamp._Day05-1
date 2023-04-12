@@ -1,0 +1,4 @@
+module RxSwift {
+    header "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RxSwift-Swift.h"
+    requires objc
+}

@@ -1,0 +1,202 @@
+{
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex10",
+      "program": "${workspaceFolder:src}/.build/debug/ex10",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex10"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex10",
+      "program": "${workspaceFolder:src}/.build/release/ex10",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex10"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex09",
+      "program": "${workspaceFolder:src}/.build/debug/ex09",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex09"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex09",
+      "program": "${workspaceFolder:src}/.build/release/ex09",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex09"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex08",
+      "program": "${workspaceFolder:src}/.build/debug/ex08",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex08"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex08",
+      "program": "${workspaceFolder:src}/.build/release/ex08",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex08"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex07",
+      "program": "${workspaceFolder:src}/.build/debug/ex07",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex07"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex07",
+      "program": "${workspaceFolder:src}/.build/release/ex07",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex07"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex06",
+      "program": "${workspaceFolder:src}/.build/debug/ex06",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex06"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex06",
+      "program": "${workspaceFolder:src}/.build/release/ex06",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex06"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex05",
+      "program": "${workspaceFolder:src}/.build/debug/ex05",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex05"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex05",
+      "program": "${workspaceFolder:src}/.build/release/ex05",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex05"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex04",
+      "program": "${workspaceFolder:src}/.build/debug/ex04",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex04"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex04",
+      "program": "${workspaceFolder:src}/.build/release/ex04",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex04"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex03",
+      "program": "${workspaceFolder:src}/.build/debug/ex03",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex03"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex03",
+      "program": "${workspaceFolder:src}/.build/release/ex03",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex03"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex02",
+      "program": "${workspaceFolder:src}/.build/debug/ex02",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex02"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex02",
+      "program": "${workspaceFolder:src}/.build/release/ex02",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex02"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug ex01",
+      "program": "${workspaceFolder:src}/.build/debug/ex01",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug ex01"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release ex01",
+      "program": "${workspaceFolder:src}/.build/release/ex01",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release ex01"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Debug Day05",
+      "program": "${workspaceFolder:src}/.build/debug/Day05",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Debug Day05"
+    },
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Release Day05",
+      "program": "${workspaceFolder:src}/.build/release/Day05",
+      "args": [],
+      "cwd": "${workspaceFolder:src}",
+      "preLaunchTask": "swift: Build Release Day05"
+    }
+  ]
+}

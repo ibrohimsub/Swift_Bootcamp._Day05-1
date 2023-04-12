@@ -1,0 +1,965 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/master.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AddRef.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AddRef.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AddRef.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AddRef~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AddRef.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Amb.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Amb.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Amb.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Amb~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Amb.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AnonymousDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AnonymousObserver.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousObserver.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousObserver.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousObserver~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnonymousObserver.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AnyObserver.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnyObserver.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnyObserver.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnyObserver~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AnyObserver.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AsMaybe.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsMaybe.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsMaybe.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsMaybe~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsMaybe.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AsSingle.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsSingle.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsSingle.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsSingle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsSingle.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AsyncLock.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncLock.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncLock.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncLock.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AsyncSubject.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncSubject.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncSubject.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncSubject~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AsyncSubject.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/AtomicInt.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AtomicInt.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AtomicInt.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AtomicInt~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/AtomicInt.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Bag+Rx.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag+Rx.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag+Rx.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag+Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag+Rx.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Bag.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Bag.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/BehaviorSubject.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BehaviorSubject.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BehaviorSubject.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BehaviorSubject~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BehaviorSubject.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/BinaryDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BinaryDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BinaryDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BinaryDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BinaryDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Binder.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Binder.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Binder.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Binder~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Binder.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/BooleanDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BooleanDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BooleanDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BooleanDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/BooleanDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Buffer.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Buffer.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Buffer.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Buffer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Buffer.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Cancelable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Cancelable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Cancelable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Cancelable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Cancelable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Catch.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Catch.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Catch.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Catch~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Catch.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CombineLatest+Collection.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+Collection.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+Collection.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+Collection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+Collection.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CombineLatest+arity.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+arity.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+arity.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest+arity.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CombineLatest.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CombineLatest.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CompactMap.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompactMap.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompactMap.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompactMap~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompactMap.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Completable+AndThen.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable+AndThen.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable+AndThen.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable+AndThen~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable+AndThen.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Completable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Completable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CompositeDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompositeDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompositeDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompositeDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CompositeDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Concat.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Concat.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Concat.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Concat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Concat.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ConcurrentDispatchQueueScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentDispatchQueueScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentDispatchQueueScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentDispatchQueueScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentDispatchQueueScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ConcurrentMainScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentMainScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentMainScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentMainScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConcurrentMainScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ConnectableObservableType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConnectableObservableType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConnectableObservableType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConnectableObservableType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ConnectableObservableType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Create.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Create.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Create.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Create~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Create.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/CurrentThreadScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CurrentThreadScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CurrentThreadScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CurrentThreadScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/CurrentThreadScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Date+Dispatch.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Date+Dispatch.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Date+Dispatch.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Date+Dispatch~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Date+Dispatch.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Debounce.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debounce.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debounce.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debounce~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debounce.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Debug.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debug.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debug.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debug~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Debug.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Decode.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Decode.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Decode.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Decode~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Decode.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DefaultIfEmpty.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DefaultIfEmpty.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DefaultIfEmpty.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DefaultIfEmpty~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DefaultIfEmpty.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Deferred.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Deferred.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Deferred.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Deferred~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Deferred.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Delay.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Delay.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Delay.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Delay~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Delay.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DelaySubscription.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DelaySubscription.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DelaySubscription.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DelaySubscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DelaySubscription.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Dematerialize.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Dematerialize.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Dematerialize.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Dematerialize~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Dematerialize.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DispatchQueue+Extensions.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueue+Extensions.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueue+Extensions.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueue+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueue+Extensions.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DispatchQueueConfiguration.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueueConfiguration.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueueConfiguration.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueueConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DispatchQueueConfiguration.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Disposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Disposables.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposables.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposables.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposables~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Disposables.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DisposeBag.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBag.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBag.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBag~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBag.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DisposeBase.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBase.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBase.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBase~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DisposeBase.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/DistinctUntilChanged.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DistinctUntilChanged.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DistinctUntilChanged.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DistinctUntilChanged~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/DistinctUntilChanged.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Do.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Do.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Do.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Do~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Do.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ElementAt.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ElementAt.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ElementAt.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ElementAt~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ElementAt.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Empty.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Empty.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Empty.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Empty.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Enumerated.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Enumerated.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Enumerated.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Enumerated~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Enumerated.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Error.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Error.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Error.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Error.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Errors.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Errors.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Errors.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Errors.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Event.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Event.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Event.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Event~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Event.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Filter.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Filter.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Filter.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Filter.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/First.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/First.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/First.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/First~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/First.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Generate.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Generate.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Generate.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Generate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Generate.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/GroupBy.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupBy.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupBy.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupBy~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupBy.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/GroupedObservable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupedObservable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupedObservable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupedObservable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/GroupedObservable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/HistoricalScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/HistoricalSchedulerTimeConverter.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalSchedulerTimeConverter.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalSchedulerTimeConverter.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalSchedulerTimeConverter~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/HistoricalSchedulerTimeConverter.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ImmediateSchedulerType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ImmediateSchedulerType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ImmediateSchedulerType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ImmediateSchedulerType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ImmediateSchedulerType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible+CombineLatest+arity.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+CombineLatest+arity.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+CombineLatest+arity.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+CombineLatest+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+CombineLatest+arity.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible+Concurrency.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Concurrency.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Concurrency.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Concurrency.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible+Create.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Create.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Create.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Create~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Create.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible+Operators.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Operators.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Operators.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Operators~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Operators.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible+Zip+arity.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Zip+arity.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Zip+arity.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Zip+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible+Zip+arity.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Infallible.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Infallible.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/InfiniteSequence.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InfiniteSequence.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InfiniteSequence.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InfiniteSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InfiniteSequence.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/InvocableScheduledItem.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableScheduledItem.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableScheduledItem.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableScheduledItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableScheduledItem.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/InvocableType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/InvocableType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Just.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Just.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Just.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Just~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Just.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Lock.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Lock.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Lock.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Lock.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/LockOwnerType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/LockOwnerType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/LockOwnerType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/LockOwnerType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/LockOwnerType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/MainScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/MainScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/MainScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/MainScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/MainScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Map.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Map.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Map.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Map~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Map.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Materialize.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Materialize.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Materialize.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Materialize~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Materialize.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Maybe.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Maybe.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Maybe.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Maybe~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Maybe.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Merge.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Merge.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Merge.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Merge~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Merge.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Multicast.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Multicast.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Multicast.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Multicast~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Multicast.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Never.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Never.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Never.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Never~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Never.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/NopDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/NopDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/NopDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/NopDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/NopDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Observable+Concurrency.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable+Concurrency.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable+Concurrency.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable+Concurrency.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Observable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Observable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObservableConvertibleType+Infallible.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType+Infallible.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType+Infallible.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType+Infallible~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType+Infallible.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObservableConvertibleType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableConvertibleType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObservableType+Extensions.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+Extensions.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+Extensions.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+Extensions.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObservableType+PrimitiveSequence.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+PrimitiveSequence.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+PrimitiveSequence.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+PrimitiveSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType+PrimitiveSequence.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObservableType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObservableType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObserveOn.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserveOn.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserveOn.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserveOn~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserveOn.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObserverBase.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverBase.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverBase.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverBase~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverBase.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ObserverType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ObserverType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/OperationQueueScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/OperationQueueScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/OperationQueueScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/OperationQueueScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/OperationQueueScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Optional.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Optional.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Optional.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Optional~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Optional.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Platform.Darwin.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Darwin.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Darwin.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Darwin~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Darwin.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Platform.Linux.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Linux.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Linux.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Linux~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Platform.Linux.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/PrimitiveSequence+Concurrency.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Concurrency.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Concurrency.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Concurrency~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Concurrency.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/PrimitiveSequence+Zip+arity.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Zip+arity.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Zip+arity.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Zip+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence+Zip+arity.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/PrimitiveSequence.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PrimitiveSequence.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/PriorityQueue.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PriorityQueue.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PriorityQueue.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PriorityQueue.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Producer.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Producer.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Producer.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Producer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Producer.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/PublishSubject.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PublishSubject.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PublishSubject.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PublishSubject~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/PublishSubject.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Queue.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Queue.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Queue.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Queue~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Queue.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Range.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Range.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Range.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Range~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Range.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Reactive.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reactive.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reactive.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reactive~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reactive.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/RecursiveLock.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveLock.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveLock.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveLock~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveLock.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/RecursiveScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RecursiveScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Reduce.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reduce.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reduce.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reduce~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Reduce.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/RefCountDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RefCountDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RefCountDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RefCountDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RefCountDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Repeat.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Repeat.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Repeat.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Repeat~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Repeat.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ReplaySubject.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ReplaySubject.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ReplaySubject.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ReplaySubject~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ReplaySubject.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/RetryWhen.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RetryWhen.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RetryWhen.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RetryWhen~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RetryWhen.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Rx.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Rx.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Rx.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Rx~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Rx.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/RxMutableBox.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RxMutableBox.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RxMutableBox.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RxMutableBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/RxMutableBox.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Sample.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sample.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sample.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sample~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sample.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Scan.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Scan.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Scan.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Scan~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Scan.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ScheduledDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ScheduledItem.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItem.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItem.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItem.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ScheduledItemType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItemType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItemType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItemType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ScheduledItemType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SchedulerServices+Emulation.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerServices+Emulation.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerServices+Emulation.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerServices+Emulation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerServices+Emulation.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SchedulerType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SchedulerType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Sequence.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sequence.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sequence.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sequence~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sequence.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SerialDispatchQueueScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDispatchQueueScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDispatchQueueScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDispatchQueueScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDispatchQueueScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SerialDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SerialDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ShareReplayScope.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ShareReplayScope.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ShareReplayScope.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ShareReplayScope~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ShareReplayScope.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Single.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Single.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Single.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Single~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Single.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SingleAssignmentDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAssignmentDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAssignmentDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAssignmentDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAssignmentDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SingleAsync.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAsync.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAsync.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAsync~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SingleAsync.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Sink.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sink.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sink.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sink~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Sink.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Skip.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Skip.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Skip.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Skip~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Skip.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SkipUntil.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipUntil.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipUntil.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipUntil~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipUntil.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SkipWhile.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipWhile.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipWhile.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipWhile~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SkipWhile.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/StartWith.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/StartWith.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/StartWith.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/StartWith~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/StartWith.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SubjectType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubjectType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubjectType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubjectType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubjectType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SubscribeOn.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscribeOn.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscribeOn.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscribeOn~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscribeOn.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SubscriptionDisposable.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscriptionDisposable.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscriptionDisposable.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscriptionDisposable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SubscriptionDisposable.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SwiftSupport.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwiftSupport.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwiftSupport.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwiftSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwiftSupport.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Switch.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Switch.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Switch.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Switch~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Switch.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SwitchIfEmpty.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwitchIfEmpty.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwitchIfEmpty.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwitchIfEmpty~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SwitchIfEmpty.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SynchronizedDisposeType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedDisposeType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedDisposeType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedDisposeType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedDisposeType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SynchronizedOnType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedOnType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedOnType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedOnType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedOnType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/SynchronizedUnsubscribeType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedUnsubscribeType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedUnsubscribeType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedUnsubscribeType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/SynchronizedUnsubscribeType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/TailRecursiveSink.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TailRecursiveSink.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TailRecursiveSink.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TailRecursiveSink~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TailRecursiveSink.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Take.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Take.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Take.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Take~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Take.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/TakeLast.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeLast.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeLast.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeLast~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeLast.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/TakeWithPredicate.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeWithPredicate.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeWithPredicate.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeWithPredicate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/TakeWithPredicate.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Throttle.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Throttle.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Throttle.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Throttle~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Throttle.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Timeout.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timeout.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timeout.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timeout~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timeout.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Timer.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timer.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timer.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Timer.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/ToArray.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ToArray.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ToArray.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ToArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/ToArray.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Using.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Using.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Using.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Using~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Using.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/VirtualTimeConverterType.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeConverterType.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeConverterType.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeConverterType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeConverterType.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/VirtualTimeScheduler.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeScheduler.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeScheduler.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeScheduler~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/VirtualTimeScheduler.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Window.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Window.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Window.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Window~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Window.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/WithLatestFrom.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithLatestFrom.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithLatestFrom.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithLatestFrom~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithLatestFrom.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/WithUnretained.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithUnretained.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithUnretained.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithUnretained~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/WithUnretained.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Zip+Collection.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+Collection.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+Collection.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+Collection~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+Collection.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Zip+arity.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+arity.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+arity.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+arity~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip+arity.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/checkouts/RxSwift/Sources/RxSwift/Zip.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxSwift.build/Zip.swiftdeps"
+  }
+}

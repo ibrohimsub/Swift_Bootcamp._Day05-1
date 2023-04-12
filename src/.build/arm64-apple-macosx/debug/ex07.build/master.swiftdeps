@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f171737e5e7be00e9a226ab13868c0ea6c0001e230c030b170b4e300ac1567c8"
+build_start_time: [1679428824, 761032104]
+build_end_time: [1679428824, 867734909]
+inputs:
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/Sources/ex07/main.swift": [1679424854, 890513420]

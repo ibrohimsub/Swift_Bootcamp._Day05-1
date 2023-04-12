@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/ex07.build/master.swiftdeps"
+  },
+  "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/Sources/ex07/main.swift": {
+    "dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/ex07.build/main.d",
+    "object": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/ex07.build/main.swift.o",
+    "swiftmodule": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/ex07.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/ex07.build/main.swiftdeps"
+  }
+}

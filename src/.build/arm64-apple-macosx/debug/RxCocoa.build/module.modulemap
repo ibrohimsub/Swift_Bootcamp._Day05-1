@@ -1,0 +1,4 @@
+module RxCocoa {
+    header "/Users/ibragim/Desktop/swift/Swift_Bootcamp._Day05-1/src/.build/arm64-apple-macosx/debug/RxCocoa.build/RxCocoa-Swift.h"
+    requires objc
+}
